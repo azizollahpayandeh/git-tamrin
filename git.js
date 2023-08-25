@@ -22,17 +22,3 @@ function update () {
 function authpdate() {
     return true
 }
-function update () {
-    return true
-}
-
-function authpdate() {
-    return true
-}
-function update () {
-    return true
-}
-
-function authpdate() {
-    return true
-}
