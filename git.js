@@ -22,3 +22,26 @@ function update () {
 function authpdate() {
     return true
 }
+
+function update () {
+    return true
+}
+
+function authpdate() {
+    return true
+}
+function update () {
+    return true
+}
+
+function authpdate() {
+    return true
+}
+
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+
