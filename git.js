@@ -36,3 +36,10 @@ function update () {
 function authpdate() {
     return true
 }
+
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
+btn.addEventListener('click', btnFunc)
